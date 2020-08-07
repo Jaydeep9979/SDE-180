@@ -15,7 +15,7 @@ class Solution:
 #         return max(nums)
         
         
-# if no element is allowed
+# if zero elements is allowed
 # class Solution:
 #     def maxSubArray(self, nums: List[int]) -> int:
 #         curr_sum=0
