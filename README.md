@@ -4,7 +4,5 @@ which will help us to Crack the Interview !
 
 ### Things which you need to crack the interview .
 
-### 1) Enthusiasm
-### 2) Determination
-### 3) Patience
+### 1) Enthusiasm  2) Determination  3) Patience
 
